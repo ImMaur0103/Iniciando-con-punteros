@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Clase 4 mauricio.cpp
+c:\users\mau_l\source\repos\clase 4 mauricio\clase 4 mauricio\clase 4 mauricio.cpp(32): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Clase 4 mauricio.vcxproj -> C:\Users\mau_l\source\repos\Clase 4 mauricio\Debug\Clase 4 mauricio.exe
